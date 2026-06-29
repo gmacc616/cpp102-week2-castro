@@ -1,0 +1,29 @@
+lab act# 1 ADD TWO NUMBERS 
+
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END
+
+lab act# 2 COMPUTE THE AVERAGE OF THREE QUIZ SCORES 
+
+START 
+INPUT score1
+INPUT score2
+INPUT score3
+PROCESS average=(score1=score2=score3)/3
+DISPLAY average 
+END
+
+lab act# 3 DETERMINE IF A NUMBER IS EVEN OR ODD
+
+START
+INPUT number
+PROCESS check: is number MOD 2=0? 
+IF yes, display EVEN 
+ELSE , display ODD 
+END 
+
+
