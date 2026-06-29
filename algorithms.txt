@@ -1,0 +1,6 @@
+step 1 : START
+step 2 : INPUT num1 
+step 3 : INPUT num 2
+step 4 : PROCESS sum=num1+num2
+step 5 : DISPLAY sum
+step 6 : END
